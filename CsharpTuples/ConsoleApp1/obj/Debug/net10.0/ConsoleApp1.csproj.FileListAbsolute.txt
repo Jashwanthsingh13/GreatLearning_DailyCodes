@@ -1,0 +1,15 @@
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/CsharpTuples/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
