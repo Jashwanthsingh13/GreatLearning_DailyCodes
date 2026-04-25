@@ -1,0 +1,24 @@
+# Build results
+bin/
+obj/
+*.o
+*.a
+*.dll
+*.exe
+*.so
+*.dylib
+
+# IDE files
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime
+*.pdb
+*.log
