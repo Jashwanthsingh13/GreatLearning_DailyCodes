@@ -1,0 +1,15 @@
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/bin/Debug/net6.0/OrderApp
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/bin/Debug/net6.0/OrderApp.deps.json
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/bin/Debug/net6.0/OrderApp.runtimeconfig.json
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/bin/Debug/net6.0/OrderApp.dll
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/bin/Debug/net6.0/OrderApp.pdb
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/obj/Debug/net6.0/OrderApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/obj/Debug/net6.0/OrderApp.AssemblyInfoInputs.cache
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/obj/Debug/net6.0/OrderApp.AssemblyInfo.cs
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/obj/Debug/net6.0/OrderApp.csproj.CoreCompileInputs.cache
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/obj/Debug/net6.0/OrderApp.sourcelink.json
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/obj/Debug/net6.0/OrderApp.dll
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/obj/Debug/net6.0/refint/OrderApp.dll
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/obj/Debug/net6.0/OrderApp.pdb
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/obj/Debug/net6.0/OrderApp.genruntimeconfig.cache
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/Day6Assignment/obj/Debug/net6.0/ref/OrderApp.dll
