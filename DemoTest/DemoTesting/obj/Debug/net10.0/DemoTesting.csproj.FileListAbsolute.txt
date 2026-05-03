@@ -1,0 +1,15 @@
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/bin/Debug/net10.0/DemoTesting
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/bin/Debug/net10.0/DemoTesting.deps.json
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/bin/Debug/net10.0/DemoTesting.runtimeconfig.json
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/bin/Debug/net10.0/DemoTesting.dll
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/bin/Debug/net10.0/DemoTesting.pdb
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/obj/Debug/net10.0/DemoTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/obj/Debug/net10.0/DemoTesting.AssemblyInfoInputs.cache
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/obj/Debug/net10.0/DemoTesting.AssemblyInfo.cs
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/obj/Debug/net10.0/DemoTesting.csproj.CoreCompileInputs.cache
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/obj/Debug/net10.0/DemoTesting.sourcelink.json
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/obj/Debug/net10.0/DemoTesting.dll
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/obj/Debug/net10.0/refint/DemoTesting.dll
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/obj/Debug/net10.0/DemoTesting.pdb
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/obj/Debug/net10.0/DemoTesting.genruntimeconfig.cache
+/Users/jashwanthrajpurohith/GreatLearning_DailyCode/DemoTest/DemoTesting/obj/Debug/net10.0/ref/DemoTesting.dll

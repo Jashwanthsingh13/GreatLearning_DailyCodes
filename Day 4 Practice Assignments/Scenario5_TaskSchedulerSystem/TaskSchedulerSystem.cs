@@ -311,7 +311,7 @@ namespace Scenario5_TaskSchedulerSystem
             Console.WriteLine($"Unique Task IDs: {uniqueTaskIds.Count}");
             Console.WriteLine($"Pending Tasks: {taskExecutionQueue.Count}");
             Console.WriteLine($"Undo History Length: {undoStack.Count}");
-            
+
             int completed = allTasks.Count(tid => taskDatabase.ContainsKey(tid) && taskDatabase[tid].Status == TaskStatus.Completed);
             int inProgress = allTasks.Count(tid => taskDatabase.ContainsKey(tid) && taskDatabase[tid].Status == TaskStatus.InProgress);
             Console.WriteLine($"Completed Tasks: {completed}");
