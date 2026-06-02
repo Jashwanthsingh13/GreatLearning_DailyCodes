@@ -1,0 +1,6 @@
+@JashwanthMilestone3_HostAddress = http://localhost:5111
+
+GET {{JashwanthMilestone3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
