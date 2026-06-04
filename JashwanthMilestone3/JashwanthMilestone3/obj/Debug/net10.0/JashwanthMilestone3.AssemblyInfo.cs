@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JashwanthMilestone3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+214f81393a9045569aa04f99d9fc85495e93586f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8ca46f3c8fd7c3645761d45c2c7c41fdb33735e")]
 [assembly: System.Reflection.AssemblyProductAttribute("JashwanthMilestone3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JashwanthMilestone3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
